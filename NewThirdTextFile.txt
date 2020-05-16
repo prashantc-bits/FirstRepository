@@ -1,0 +1,3 @@
+this is newly added third text file.
+
+modifying the file for merging file from one branch to another grom local git repository
