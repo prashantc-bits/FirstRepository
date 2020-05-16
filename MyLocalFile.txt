@@ -1,1 +1,1 @@
-This is my first local file to upload
+This is my first local file to upload..Nice I got how to change to original branch and then edit the file pushed earlier from local git repo to git hub repo
