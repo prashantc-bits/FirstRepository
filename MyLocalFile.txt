@@ -4,3 +4,5 @@ This is my first local file to upload..Nice I got how to change to original bran
 I am going to make some new changes in local file and then add two more new files but will commit only 2 to be pushsed to Git hub, out of 3 and later will see how we can add multiple files at once to be pushed to git hub
 
 
+Making this change as part of Branches Merging Practice.  Created a new branch 'cdt' from default master branch with 6 commits, followed then by two more commits in this branch.
+
