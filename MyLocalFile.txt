@@ -1,1 +1,6 @@
-This is my first local file to upload..Nice I got how to change to original branch and then edit the file pushed earlier from local git repo to git hub repo
+This is my first local file to upload..Nice I got how to change to original branch and then edit the file pushed earlier from local git repo to git hub repo.
+
+
+I am going to make some new changes in local file and then add two more new files but will commit only 2 to be pushsed to Git hub, out of 3 and later will see how we can add multiple files at once to be pushed to git hub
+
+
